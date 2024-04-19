@@ -20,4 +20,4 @@ puts "the first die is: #{die1}"
 die2 = rand(1..6)
 puts "the second die is: #{die2}"
 total= die1 + die2
-puts total
+puts "the total of the two dice is: #{total}"

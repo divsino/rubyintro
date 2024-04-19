@@ -15,3 +15,7 @@
 # HINTS
 # Learn to read the documentation!
 # https://ruby-doc.org/core-2.7.0/Array.html
+
+brians_list= ["beer, "bourbon", "meat", "milk"]
+bens_list= ["kale", "sticks", "berries", "beer"]
+combined_list = brians_list + bens_list
